@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PV_Web", "PV_Web\PV_Web.vbproj", "{88940988-2BC6-4586-BEC4-8CAA9908150F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_Web", "PV_Web\PV_Web.csproj", "{CE86B1E4-46AC-463A-836D-06C7EEE9192C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88940988-2BC6-4586-BEC4-8CAA9908150F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88940988-2BC6-4586-BEC4-8CAA9908150F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88940988-2BC6-4586-BEC4-8CAA9908150F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88940988-2BC6-4586-BEC4-8CAA9908150F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE86B1E4-46AC-463A-836D-06C7EEE9192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE86B1E4-46AC-463A-836D-06C7EEE9192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE86B1E4-46AC-463A-836D-06C7EEE9192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE86B1E4-46AC-463A-836D-06C7EEE9192C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
